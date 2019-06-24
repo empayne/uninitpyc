@@ -27,4 +27,4 @@ line 4: int k
 ## // TODO
 * Comments are unsupported; current workaround is to remove the comments from your source code (https://stackoverflow.com/questions/2394017).
 * Investigate other C syntax constructs that need support.
-* Add real testing via pytest (improvmeent from current ad-hoc testing).
+* Add real testing via pytest (improvement from current ad-hoc testing).
